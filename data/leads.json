@@ -1,0 +1,127 @@
+[
+  {
+    "id": "lead-101",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@techflow.io",
+    "phone": "+1 (555) 234-5678",
+    "company": "TechFlow Solutions",
+    "source": "Website Contact Form",
+    "status": "new",
+    "message": "Looking for custom SaaS integration services for our 45-person sales team. Need a project estimate by this Friday.",
+    "nextFollowUp": "2026-10-15T10:00:00.000Z",
+    "notes": [
+      {
+        "id": "note-1",
+        "text": "Inquiry received via website homepage contact form. High intent lead.",
+        "createdAt": "2026-10-12T14:30:00.000Z",
+        "author": "System"
+      }
+    ],
+    "createdAt": "2026-10-12T14:30:00.000Z",
+    "updatedAt": "2026-10-12T14:30:00.000Z"
+  },
+  {
+    "id": "lead-102",
+    "name": "Marcus Vance",
+    "email": "marcus@apexlogistics.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Apex Logistics Group",
+    "source": "Google Search",
+    "status": "contacted",
+    "message": "Interested in redesigning our customer portal to improve driver tracking.",
+    "nextFollowUp": "2026-10-16T15:30:00.000Z",
+    "notes": [
+      {
+        "id": "note-2",
+        "text": "Had initial discovery call. Marcus requested a proposal breakdown for phase 1.",
+        "createdAt": "2026-10-10T11:15:00.000Z",
+        "author": "Admin"
+      },
+      {
+        "id": "note-3",
+        "text": "Follow-up email sent with case studies and ballpark budget estimate ($15k).",
+        "createdAt": "2026-10-11T16:00:00.000Z",
+        "author": "Admin"
+      }
+    ],
+    "createdAt": "2026-10-09T09:12:00.000Z",
+    "updatedAt": "2026-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "lead-103",
+    "name": "Elena Rostova",
+    "email": "elena.r@novabranding.agency",
+    "phone": "+1 (555) 456-7890",
+    "company": "Nova Branding",
+    "source": "Referral",
+    "status": "converted",
+    "message": "Referred by David Miller. Looking to partner on recurring web development contracts.",
+    "nextFollowUp": null,
+    "notes": [
+      {
+        "id": "note-4",
+        "text": "Contract signed and 50% deposit received. Onboarding kickoff scheduled.",
+        "createdAt": "2026-10-08T18:20:00.000Z",
+        "author": "Admin"
+      }
+    ],
+    "createdAt": "2026-10-04T10:00:00.000Z",
+    "updatedAt": "2026-10-08T18:20:00.000Z"
+  },
+  {
+    "id": "lead-104",
+    "name": "David Kim",
+    "email": "david.kim@zenithretail.com",
+    "phone": "+1 (555) 567-8901",
+    "company": "Zenith Retail",
+    "source": "LinkedIn",
+    "status": "new",
+    "message": "Can you provide eCommerce optimization and Shopify headless frontend implementation?",
+    "nextFollowUp": "2026-10-14T11:00:00.000Z",
+    "notes": [],
+    "createdAt": "2026-10-13T08:45:00.000Z",
+    "updatedAt": "2026-10-13T08:45:00.000Z"
+  },
+  {
+    "id": "lead-105",
+    "name": "Rachel Thorne",
+    "email": "rachel@horizonhealth.co",
+    "phone": "+1 (555) 678-9012",
+    "company": "Horizon Health",
+    "source": "Website Contact Form",
+    "status": "contacted",
+    "message": "We need HIPAA compliant patient intake workflows and database synchronization.",
+    "nextFollowUp": "2026-10-17T14:00:00.000Z",
+    "notes": [
+      {
+        "id": "note-5",
+        "text": "Intro meeting completed. Sent NDA and compliance questionnaire.",
+        "createdAt": "2026-10-12T16:45:00.000Z",
+        "author": "Admin"
+      }
+    ],
+    "createdAt": "2026-10-11T13:20:00.000Z",
+    "updatedAt": "2026-10-12T16:45:00.000Z"
+  },
+  {
+    "id": "lead-106",
+    "name": "Oliver Twist",
+    "email": "oliver@cloudscale.net",
+    "phone": "+1 (555) 789-0123",
+    "company": "CloudScale Systems",
+    "source": "Website Contact Form",
+    "status": "converted",
+    "message": "Need monthly retainer for dedicated full-stack development team.",
+    "nextFollowUp": null,
+    "notes": [
+      {
+        "id": "note-6",
+        "text": "Agreement executed. Monthly retainer started at $8,000/mo.",
+        "createdAt": "2026-10-07T12:00:00.000Z",
+        "author": "Admin"
+      }
+    ],
+    "createdAt": "2026-10-01T15:10:00.000Z",
+    "updatedAt": "2026-10-07T12:00:00.000Z"
+  }
+]
